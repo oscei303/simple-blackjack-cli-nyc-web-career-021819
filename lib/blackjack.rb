@@ -56,6 +56,7 @@ def runner
   initial_round = card_total
   prompt_user 
   user_input = get_user_input
+  until card_total > 21
   
 end
     
